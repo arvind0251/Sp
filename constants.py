@@ -1,0 +1,19 @@
+# constants.py
+
+ADMIN_ID = 7459732827
+
+BOT_TOKEN = "8120936026:AAE-LYykj7ZEGSxEaAnKq9E_wP38PVo2GJM"
+SUPPORT_URL = "https://t.me/akotpshop"
+QR_CODE_LINK = "https://i.ibb.co/BHS157vz/BHARATPE-QR.png"
+UPI_ID = "BHARATPE.8X0M0S6J8F70781@fbpe"
+
+# BharatPay Payment
+ACCESS_TOKEN = "75c8651095404000b35d3135e78d05fe"
+MERCHANT_ID = 53177293
+
+# 5SIM API
+API_KEY = "a4ac091e88004e00ba43894f854a789d"
+HEADERS_5SIM = {"Authorization": f"Bearer {API_KEY}"}
+
+# JSON Data File
+DATA_FILE = "bot_data.json"
